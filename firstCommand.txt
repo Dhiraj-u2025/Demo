@@ -1,3 +1,9 @@
-Git Commands :
-1.Git init
-2.Git
+GIt Commands: 
+1. Git init (initialise git or git Activated)
+2. Git status (Check status or untracked files)
+3. Git add . (For all file add on git)
+4. Git add filename (special file add)
+5. Git commit -m " Give massage"
+6. Git remote add (pathname or origin) path(https:/GitHub.com/Dhiraj-u2025/repo name)
+7. Git branch (to see branches of gits)
+8. Git ls (to see list of file)
